@@ -1,5 +1,5 @@
 <h2> Hey! I'm Akanksh.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Akankshg-ByteWizard/Akankshg-ByteWizard/blob/main/hello.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
