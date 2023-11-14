@@ -1,5 +1,5 @@
-<h2> Hey! I'm Akanksh. <img src="https://github.com/Akankshg-ByteWizard/Akankshg-ByteWizard/blob/main/hello.gif/" width="25"></h2>
-
+<h2> Hey! I'm Akanksh.</h2>
+<img align="right" alt="GIF" src="https://github.com/Akankshg-ByteWizard/Akankshg-ByteWizard/blob/main/hello.gif/" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning SPARK ON DATA BRICKS
