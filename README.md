@@ -32,5 +32,6 @@
 &nbsp; <a href="https://www.linkedin.com/in/akanksh-gatla-071b70195/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:gattla.akanksh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+![image](https://github.com/Akankshg-ByteWizard/Akankshg-ByteWizard/assets/45911434/87d46442-e669-4c7b-93e2-76db54fda762)
 
 ⭐️ From [Akanksh](https://github.com/Akankshg-ByteWizard)
