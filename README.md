@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Akankshg-ByteWizard/Akankshg-ByteWizard/blob/main/hello.gif/" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning SPARK ON DATA BRICKS
+- 🔭 &nbsp; I’m currently working on Azure Data Engineering.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Data Engineer and Software developer.
