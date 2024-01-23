@@ -25,6 +25,9 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshg-ByteWizard&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Akanksh/github-readme-stats)  -->
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshg-ByteWizard&layout=compact&theme=radical)
+
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akankshg-ByteWizard.your-repo-name)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akankshg-ByteWizard&show_icons=true&theme=radical)
