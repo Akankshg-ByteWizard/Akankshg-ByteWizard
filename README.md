@@ -27,12 +27,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshg-ByteWizard&layout=compact&theme=radical)
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akankshg-ByteWizard.your-repo-name)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akankshg-ByteWizard.your-repo-name)-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akankshg-ByteWizard&show_icons=true&theme=radical)
-
-
                                             
 ![Profile Views](https://komarev.com/ghpvc/?username=Akankshg-ByteWizard&color=brightgreen)
 
