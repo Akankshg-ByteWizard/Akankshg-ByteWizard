@@ -26,6 +26,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshg-ByteWizard&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Akanksh/github-readme-stats)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Akankshg-ByteWizard&color=brightgreen)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 &nbsp; <a href="https://www.instagram.com/xoxo_hari_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
