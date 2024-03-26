@@ -49,6 +49,7 @@
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akankshg-ByteWizard.your-repo-name)-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akankshg-ByteWizard&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akankshg-ByteWizard&" alt="Akankshg-ByteWizard" /></p>
                                             
 ![Profile Views](https://komarev.com/ghpvc/?username=Akankshg-ByteWizard&color=brightgreen)
 
